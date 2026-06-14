@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Customer Support Copilot",
+  "version": "1.0",
+  "description": "Customer Support Copilot powered by AI.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
